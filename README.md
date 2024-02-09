@@ -13,3 +13,4 @@ For the third, the original array and elements will be presented in front of you
 For the fourth,  the original array and elements will be presented in front of you. Enter the array index you will like to change. It will ask you if you want to remove it from the array, or replace the value at that index with a zero. After answering the question, the new updated array will be presented to you. 
 
 ![HW1PT4](https://github.com/JoeKimbro/HW1-303/assets/159492219/436e449b-c58b-42b9-a24d-a4207b702c0b)
+![HW1PT4OP2](https://github.com/JoeKimbro/HW1-303/assets/159492219/c6264af9-992c-41a2-a1b6-5abe56d03a16)
